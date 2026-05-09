@@ -10,8 +10,8 @@
 💬 **Ask me about:** Java, Spring Boot, Hibernate, REST APIs, React, PHP, connecting backend & frontend  
 📫 **How to reach me:** [Email](mailto:nisalsandaru1@gmail.com) • [LinkedIn](https://linkedin.com/in/nisal-sandaru-b14064298)  
 😄 **Pronouns:** he/him  
-⚡ **Fun fact:** I love clean code, automating tasks, and building robust APIs!
-**Portfolio Site:** [site](https://nisalsandaru.netlify.app/)
+⚡ **Fun fact:** I love clean code, automating tasks, and building robust APIs!  
+  **Portfolio Site:** [nisalsandaru](https://nisalsandaru.netlify.app/)
 
 ---
 
